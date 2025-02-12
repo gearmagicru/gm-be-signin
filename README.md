@@ -2,9 +2,6 @@
 
 Модуль выполняет авторизацию пользователя в Панели управления GM Panel.
 
-## Скриншот
-<img src="https://github.com/gearmagicru/gm-be-mediafiles/blob/main/assets/help/grid.png?raw=true">
-
 ## Установка
 
 Для добавления модуля в ваш проект, вы можете просто выполнить команду ниже:
