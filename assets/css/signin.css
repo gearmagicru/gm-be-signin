@@ -1,0 +1,17 @@
+/*!
+ * Настройки (Settings).
+ * 
+ * Модуль "Авторизация".
+ *
+ * Copyright 2015 Вeб-студия GearMagic
+ * Copyright Anton Tivonenko <anton.tivonenko@gmail.com>
+ * https://gearmagic.ru/license/
+ */
+
+/**
+ * Вкладки панели настроек модуля.
+ */
+/* Значок "Общие" */
+.g-icon_signin-common { background-image: url("../images/icon-common.svg"); }
+/* Значок "IP адреса" */
+.g-icon_signin-list-ip { background-image: url("../images/icon-list-ip.svg"); }

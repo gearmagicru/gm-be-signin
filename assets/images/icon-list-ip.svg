@@ -1,0 +1,7 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+  <g id="icon">
+    <path d="M27.967,30.5H4.033c-0.295,0,-0.533,-0.239,-0.533,-0.533V2.033c0,-0.295,0.239,-0.533,0.533,-0.533h23.933c0.295,0,0.533,0.239,0.533,0.533v27.933C28.5,30.261,28.261,30.5,27.967,30.5z" fill="#FFFFFF" stroke="#6D6E71" stroke-width="1" stroke-miterlimit="10"/>
+    <path d="M10.5,9.5H6.5V5.5h4V9.5zM10.5,11.5H6.5v4h4V11.5zM10.5,17.5H6.5v4h4V17.5zM10.5,23.5H6.5v4h4V23.5z" fill="#F4F4F5" stroke="#6D6E71" stroke-width="1" stroke-miterlimit="10"/>
+    <path d="M13.5,7.5h11M13.5,13.5h11M13.5,19.5h11M13.5,25.5h11" fill="none" stroke="#3E79B4" stroke-width="1" stroke-linecap="round" stroke-miterlimit="10"/>
+  </g>
+</svg>
