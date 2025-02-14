@@ -1,13 +1,7 @@
 {
     "name": "gearmagicru/gm-be-signin",
-    "description": "Control panel module \"Sign in\"",
-    "keywords": [
-        "gm",
-        "gearmagic",
-        "GM Panel",
-        "module",
-        "signin"
-    ],
+    "description": "Control Panel module \"Sign in\"",
+    "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-module", "module"],
     "homepage": "https://apps.gearmagic.ru/component/gm-be-signin",
     "type": "component",
     "license": "MIT",
